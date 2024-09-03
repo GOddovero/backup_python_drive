@@ -1,0 +1,3 @@
+CARPETA_LOCAL=C:/Users/Gaspar/Desktop/Repos/backup_python_drive/archivos
+CARPETA_DRIVE=1-cQItKy3U0dP5Jp-FLgIJSq5InFZP_50
+AUTOMATICO=False

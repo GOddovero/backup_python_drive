@@ -1,7 +1,5 @@
-
 from pydrive2.auth import GoogleAuth
 from pydrive2.drive import GoogleDrive
-import os
 from datetime import datetime
 import locale
 import shutil
